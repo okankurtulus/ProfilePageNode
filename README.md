@@ -1,2 +1,3 @@
 # ProfilePageNode
-Profile Page with backend
+
+a [Sails](http://sailsjs.org) application
